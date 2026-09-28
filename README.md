@@ -5,15 +5,16 @@ Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 
 ## [Try it out](https://butterchurnviz.com)
 
-[![Screenshot of Butterchurn](https://butterchurnviz.com/static/img/preview.png)](https://butterchurnviz.com)
-
+[![Butterchurn Screenshot](preview.png)](https://butterchurnviz.com)
 
 ## Usage
 
 ### Installation
 
-With [yarn](https://yarnpkg.com/) or [npm](https://npmjs.org/) installed, run
+With [pnpm](https://pnpm.io/), [yarn](https://yarnpkg.com/) or [npm](https://npmjs.org/) installed, run
 
+    $ pnpm add butterchurn butterchurn-presets
+    or
     $ yarn add butterchurn butterchurn-presets
     or
     $ npm install butterchurn butterchurn-presets
